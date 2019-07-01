@@ -1,0 +1,1 @@
+This is Firebird block for find how many work days we have between two dates.
